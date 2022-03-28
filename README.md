@@ -1,0 +1,1 @@
+Open constants.php file and replace the values for CLIENT_ID and CLIENT_SECRET constant variables with your tool client id and client secret.
